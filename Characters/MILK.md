@@ -3,3 +3,5 @@ The MILK player is randomly selected at the beginning of each round
 ## Attacks
 MILK BEAM SUPER
 MILK FACE SEVERER
+MILK PUNCH
+MILK ASCEND
