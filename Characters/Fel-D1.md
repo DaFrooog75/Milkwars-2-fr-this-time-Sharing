@@ -3,4 +3,4 @@ A mutant cat with high mobility and the genome mechanic, which is corrupted by M
 Claw
 Hairball
 Grapple
-Genetic Ascensi
+Genetic Ascension
