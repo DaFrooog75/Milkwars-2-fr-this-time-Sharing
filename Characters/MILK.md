@@ -6,5 +6,5 @@ The MILK fires a beam of MILK which deals high damage and high corruption, with 
 ##### MILK FACE SEVERER
 The MILK uses a short range bite attack which deals high damage but low corruption.
 ##### MILK APOCALYPSE SPIKE
-The MILK grows a large spike from its han
+The MILK grows a large spike from its hand, which it thrusts forward with, dealing damage with pierce.
 ##### MILK STAR ASCENSION
