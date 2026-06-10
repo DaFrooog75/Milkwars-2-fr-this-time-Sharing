@@ -8,4 +8,4 @@ The MILK uses a short range bite attack which deals high damage but low corrupti
 ##### MILK APOCALYPSE SPIKE
 The MILK grows a large spike from its hand, which it thrusts forward with, dealing damage with pierce.
 ##### MILK STAR ASCENSION
-The MILK summons a pillar of MILK, which damages enemies and boosts the MILK hig
+The MILK summons a pillar of MILK, which damages enemies and boosts the MILK high into the air. Also fills the MILK level, and has a high 
